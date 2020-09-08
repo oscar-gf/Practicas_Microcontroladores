@@ -15,7 +15,7 @@ Screenshot the image of the complete PBC board whith the attached electronic com
 ```diff
 + Complete PBC (3D KiCad Viewer) Results
 ```
-![3D View](./"PCB-3D_VIEW.png")
+![3D View](./PCB-3D_VIEW.png)
 
 
 ## Conclusion
