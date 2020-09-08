@@ -8,12 +8,12 @@ Commit and push the files with extensions .pro, .gbl, and .drl  created once you
 ### Demonstration
 Screenshot the image of the complete PBC board whith the attached electronic components using the 3d viewer of KiCad.
 ```diff
-+ Track Design (Gerber Viewer) Results
++ Gerber View (Track Design)
 ```
 ![Track Design](./track_design.png)
 
 ```diff
-+ Complete PBC (3D KiCad Viewer) Results
++ 3D View of our PCB
 ```
 ![3D View](./PCB-3D_VIEW.png)
 
