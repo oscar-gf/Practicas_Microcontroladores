@@ -5,13 +5,13 @@ upload the link on Canvas.
 ### File uploads
 Commit and push the files with extensions .pro and .kicad_pcb created once you completed all the steps of the document in the repository.
 
+### Demonstration
+Screenshot the image of the complete schematic and upload it at the repository.
+
 ```diff
 + PCB - Complete Schematic
 ```
 ![PCB](./PCB.png)
-
-### Demonstration
-Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 
