@@ -10,7 +10,7 @@ Screenshot the image of the complete PBC board whith the attached electronic com
 ```diff
 + Track Design (Gerber Viewer) Results
 ```
-(./track_design.png)
+![Table1.1](./track_design.png)
 
 ```diff
 + Complete PBC (3D KiCad Viewer) Results
