@@ -10,14 +10,14 @@ Screenshot the image of the complete PBC board whith the attached electronic com
 ```diff
 + Track Design (Gerber Viewer) Results
 ```
-![wha](./track_design.png)
+![Track Design](./track_design.png)
 
 ```diff
 + Complete PBC (3D KiCad Viewer) Results
 ```
-![](./PCB-3D VIEW.png)
+![3D View](./PCB-3D VIEW.png)
 
 
 ## Conclusion
 
-TESSSST
+En esta práctica pude observar mi diseño final de la placa usando el “3D bien” que nos proporciona KiCad, el único detalle es que al usar una librería sin modelado 3D nuestra placa final solo muestra la misma sin los componentes anclados a ella. Esta parte no fue para nada difícil puesto que solo era seguir una serie de sencillos pasos siempre y cuando hayas hecho todo de manera correcta en las prácticas pasadas. Por último, es muy amigable con el usuario y fácil de diseñar en esta herramienta, inclusive lo usaría de referencia en el futuro. Sinn embargo, como cualquier software tiene su nomenclatura y reglas a seguir, en caso de no conocerlas o entenderlas pasaras un mal rato hasta poder crear lo que uno esta buscando.  
