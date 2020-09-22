@@ -1,3 +1,6 @@
+## Entregable
+
+![Fig. schematic](./schematic.png)
 
 ## Conclusion
 
