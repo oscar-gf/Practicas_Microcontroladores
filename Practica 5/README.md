@@ -117,7 +117,7 @@ Commit and push the file main.c created once you completed all the steps of the 
 
 ### Demonstration
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation. 
-The link to my video is here: 
+The link to my video is here: https://youtu.be/b59SZcaSn9w
 
 ## Conclusion
 
