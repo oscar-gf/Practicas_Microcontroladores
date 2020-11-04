@@ -117,8 +117,8 @@ Commit and push the file main.c created once you completed all the steps of the 
 
 ### Demonstration
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation. 
-The link to my video is here: https://www.youtube.com/watch?v=AR1N1qUKeZA
+The link to my video is here: 
 
 ## Conclusion
 
-In this practice, I learned the basics of MPLAB and its functioning. First, I saw how to create a project and change the settings, depending on the application, and then added a header file to support the main code, which was provided only for debugging purposes. It was mostly easy to correct the original mistakes, but what was really interesting is the fact that you can observe the SFRs and notice the bit changes after stepping over the coding lines. I have never heard of MPLAB before, so I just hope I don't have problems using it.
+En esta practica aprendi sobre lo mas basico a la hora de usar MPLAB y el como funciona. Además, es algo rebuscado el saber si tienes algo bien o mal, ya que al momento de tratar de simular, al principio por mas que descargaba o creaba el device_config.h", me decia que el archivo no existia o no se podia encontrar. Por lo que tuve que encontrar otro medio para hacerlo. Y el problema mas grande fue que al momento de compilar y usar de guia el video del profesor, simplmente no detecta los PORTA y LATA por mas que buscara por lo que mi video de explicacion solo consiste en yo tratando de explicar en que consiste el programa. Hubiera querido resolver este problema pero me vi demasiado atorado con enfermedades y proyectos, que deje esto para el ultimo y no pude vivir la experiencia completa.
