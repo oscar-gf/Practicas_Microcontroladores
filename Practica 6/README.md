@@ -1,5 +1,4 @@
 # Practice 6. Parallel Ports (GPIOs)
-Luis Fernando Maldonado Sepúlveda
 
 ## Objectives
 he   student   will   become   familiar   with   the   basic instructions for configure and operate the Microcontroller input/output ports.
@@ -87,8 +86,11 @@ For this practice, add to the Result Section the following:
 Commit and push the file main.c created once you completed all the steps of the document in the repository.
 
 ### Demonstration
-Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation. The link to my video is here: https://youtu.be/g7U6Ot_iZXE
+Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation. 
+Video: 
 
 ## Conclusion
 
-In this practice, I continued to learn about MPLAB and its functionalities, by performing a program with C that simulated the game Whac-a-mole. The first problem I had was the application of the function pow(), but then I understood how it worked and proceeded normally. Another problem was defining the Knight Rider, or Larson Display, but I figured out it was simple by adding an inverse, instead  of turning on each LED individually. The main problem was to simulate the code, and I didn't know how, so I decided to investigate how to do it, and discovered that I could do it with Proteus, so I learned the basics, designed the Minimum Card System with the LEDs and Push Buttons, everything connected to the specific PIC18 ports and, fortunately, it worked. Now, I have some understanding of Proteus that could be useful in the next sessions.
+En esta practica segumis viendo los usos e implementaciones con MPLAB, siendo mas especificos es el programar un juego conocido como "Whac-a-mole" donde el objetivo es golpear cuando se encienda una luz usando una funcion llamada pow(). El principal problema que tuve con esta practica fue simulalor ya que pues no tenia entendio el como hacerlo ya que no contamos con nuestra Curiosity Board. A los profesores se les ocurrio de cierta manera, debido a la pandemia, utilizar un software de simulacion conocido como Protheus donde al principio pudimos ver el como podiamos diseñar circuitos como en el KiCad y de ese modo hacer una conexión entre ambos programas. Sin embargo, en el momento de intentar hacer esta practica hace unos dias habia vencido la licencia por parte de la institucion y no pude comprobar de manera simulada si funcionaba o no el codigo. 
+
+Pero nos dimos cuenta que aunque no pudieramos interactuar con el simulador podiamos ver si habia cambios en los LATA para ver si prendia el LED y al acabo del tiempo, o en este caso brincado de linea el led se apagaba. Me hubiera gusta realizar esta practica durante la clase y con un curiosity board para poder jugar y aprender mientras lo hacia.
