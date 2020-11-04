@@ -1,5 +1,4 @@
 # Practice 5. Introduction to using MPLAB X IDE
-Luis Fernando Maldonado Sepúlveda
 
 ## Objectives
 The student will become familiar with the MPLAB
