@@ -103,6 +103,7 @@ Commit and push the file main.c created once you completed all the steps of the 
 
 ### Demonstration
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
+https://youtu.be/hg_3z9_aUwo
 
 ## Conclusion
 For my conclusion while being stressed out by every other project and homework’s I found this particular laboratory practice very good, cause it was not something impossible nor something easy, and I'm still continuing to learn more about the functionalities of MPLAB. Particularly with the coordination of buttons and LEDs. I believe it was the first time we had to use something like "pull-ups" and "pull-downs" so it was kinda hard to get it but with the help of the professor and some internet search the rest of the code was easier. What it was easy was the LED's cause the professor has already told us that the order of the LED's need to be based on the binary order values. It would have been nice to see it on the proteus though.
